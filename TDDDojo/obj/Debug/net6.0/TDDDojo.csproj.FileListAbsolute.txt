@@ -1,0 +1,15 @@
+C:\Users\NMT763\source\repos\TDDDojo\TDDDojo\obj\Debug\net6.0\TDDDojo.csproj.AssemblyReference.cache
+C:\Users\NMT763\source\repos\TDDDojo\TDDDojo\obj\Debug\net6.0\TDDDojo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NMT763\source\repos\TDDDojo\TDDDojo\obj\Debug\net6.0\TDDDojo.AssemblyInfoInputs.cache
+C:\Users\NMT763\source\repos\TDDDojo\TDDDojo\obj\Debug\net6.0\TDDDojo.AssemblyInfo.cs
+C:\Users\NMT763\source\repos\TDDDojo\TDDDojo\obj\Debug\net6.0\TDDDojo.csproj.CoreCompileInputs.cache
+C:\Users\NMT763\source\repos\TDDDojo\TDDDojo\bin\Debug\net6.0\TDDDojo.exe
+C:\Users\NMT763\source\repos\TDDDojo\TDDDojo\bin\Debug\net6.0\TDDDojo.deps.json
+C:\Users\NMT763\source\repos\TDDDojo\TDDDojo\bin\Debug\net6.0\TDDDojo.runtimeconfig.json
+C:\Users\NMT763\source\repos\TDDDojo\TDDDojo\bin\Debug\net6.0\TDDDojo.dll
+C:\Users\NMT763\source\repos\TDDDojo\TDDDojo\bin\Debug\net6.0\TDDDojo.pdb
+C:\Users\NMT763\source\repos\TDDDojo\TDDDojo\obj\Debug\net6.0\TDDDojo.dll
+C:\Users\NMT763\source\repos\TDDDojo\TDDDojo\obj\Debug\net6.0\refint\TDDDojo.dll
+C:\Users\NMT763\source\repos\TDDDojo\TDDDojo\obj\Debug\net6.0\TDDDojo.pdb
+C:\Users\NMT763\source\repos\TDDDojo\TDDDojo\obj\Debug\net6.0\TDDDojo.genruntimeconfig.cache
+C:\Users\NMT763\source\repos\TDDDojo\TDDDojo\obj\Debug\net6.0\ref\TDDDojo.dll

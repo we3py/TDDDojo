@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\CRV374\\.nuget\\packages\\": {}
+    "C:\\Users\\NMT763\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CRV374\\source\\repos\\TDDDojo\\TDDDojo\\TDDDojo.csproj",
+      "projectUniqueName": "C:\\Users\\NMT763\\source\\repos\\TDDDojo\\TDDDojo\\TDDDojo.csproj",
       "projectName": "TDDDojo",
-      "projectPath": "C:\\Users\\CRV374\\source\\repos\\TDDDojo\\TDDDojo\\TDDDojo.csproj",
-      "packagesPath": "C:\\Users\\CRV374\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CRV374\\source\\repos\\TDDDojo\\TDDDojo\\obj\\",
+      "projectPath": "C:\\Users\\NMT763\\source\\repos\\TDDDojo\\TDDDojo\\TDDDojo.csproj",
+      "packagesPath": "C:\\Users\\NMT763\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\NMT763\\source\\repos\\TDDDojo\\TDDDojo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CRV374\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\NMT763\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
